@@ -5,20 +5,14 @@
 
 ### My Tech Stack
 
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-
-
-
-
 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-%23FF4154?style=flat-square&logo=react-query&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux&logoColor=white)
